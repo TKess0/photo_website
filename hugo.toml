@@ -4,8 +4,17 @@ languageCode = "en-us"
 title = "Photographies de Tom"
 theme = "PaperMod"
 
+copyright = '© 2025 Thomas Kessous · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" rel="license" target="_blank">CC BY-NC-ND 4.0</a>'
+
 [params]
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
   noindex = true
+
+[menu]
+
+  [[menu.main]]
+    name = "License"
+    url = "/license/"
+    weight = 90

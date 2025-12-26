@@ -6,6 +6,7 @@
     <description>Recent content on Photographies de Tom</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
+    <copyright>2025 Thomas Kessous · CC BY-NC-ND 4.0</copyright>
     <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +15,16 @@
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post_20251226/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>License</title>
+      <link>http://localhost:1313/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/license/</guid>
+      <description>&lt;p&gt;All content on this site is licensed under the&lt;br&gt;
+&lt;strong&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/&#34;&gt;https://creativecommons.org/licenses/by-nc-nd/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;© 2025 Thomas Kessous&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
