@@ -8,3 +8,4 @@ theme = "PaperMod"
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
+  noindex = true
