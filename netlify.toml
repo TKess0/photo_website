@@ -4,6 +4,3 @@
 
 [context.production.environment]
   HUGO_VERSION = "0.153.3"
-
-[build.environment]
-  HUGO_BASEURL = "$URL"

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://glittering-scone-1a840e.netlify.app"
 
 languageCode = "en-us"
 title = "Photographies de Tom"
