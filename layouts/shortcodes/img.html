@@ -1,0 +1,8 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+
+<img
+  src="{{ .Page.RelPermalink }}{{ $src }}"
+  alt="{{ $alt }}"
+  loading="lazy"
+  decoding="async">
