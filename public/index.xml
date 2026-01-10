@@ -7,8 +7,29 @@
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
     <copyright>2025 Thomas Kessous · CC BY-NC-ND 4.0</copyright>
-    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Washington DC</title>
+      <link>http://localhost:1313/posts/20260104/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20260104/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Washington DC</title>
+      <link>http://localhost:1313/posts/20260103/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20260103/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greenpoint</title>
+      <link>http://localhost:1313/posts/20260101/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20260101/</guid>
+      <description></description>
+    </item>
     <item>
       <title>East Williamsburg</title>
       <link>http://localhost:1313/posts/20251227/</link>
