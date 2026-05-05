@@ -7,7 +7,7 @@ draft: false
 <!--more-->
 
 {{< img src="compton.webp" alt="" >}}
-*Franklin Avenue*
+*Franklin Street*
 
 {{< img src="pisellino.webp" alt="" >}}
 *7th Avenue*
